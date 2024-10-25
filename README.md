@@ -8,7 +8,7 @@ I am a passionate Data Analyst with hands-on experience in data analysis, visual
 - 🌱 I’m currently learning **AWS**
 - 👯 I’m looking to collaborate on **exciting Data projects**
 - 📫 How to reach me: **[serraoavril@gmail.com](mailto:serraoavril@gmail.com) | [LinkedIn: avrilserrao](https://linkedin.com/in/avrilserrao)**
-- 😄 Pronouns: she/her
+- 😄 Pronouns: **she/her**
 - ⚡ Hobbies: **Reading, Travelling**
 
 
