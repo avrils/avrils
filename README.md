@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avril Serrao</h1>
 <h3 align="center">A passionate Data analyst</h3>  
 
-# About Me
+### About Me
 I am a passionate Data Analyst with hands-on experience in data analysis, visualization, and automation. With a Master of Science in Information Systems from Syracuse University. I have a strong background in using tools like SQL, Python, Power BI, and Tableau to turn raw data into actionable insights. My focus lies in building interactive dashboards and implementing data-driven solutions to improve business decision-making.
 
 - 🔭 I’m currently working on **Tableau & Power BI**
@@ -12,7 +12,7 @@ I am a passionate Data Analyst with hands-on experience in data analysis, visual
 - ⚡ Hobbies: **Reading, Travelling**
 
 
-# Skills
+### Skills
 
 - **Languages:** SQL, Python, R  
 - **Databases/ETL:** MySQL, SQL Server, Snowflake, SSIS, SSRS, Oracle, Hadoop  
@@ -26,7 +26,7 @@ I am a passionate Data Analyst with hands-on experience in data analysis, visual
 
 ---
 
-## Contact Information
+### Contact Information
 Feel free to reach out to me via email or LinkedIn for any inquiries or collaboration opportunities.
 
 - **Email:** [serraoavril@gmail.com](mailto:serraoavril@gmail.com)  
